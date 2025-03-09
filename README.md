@@ -5,7 +5,7 @@
 Um protótipo de site de uma cafeteria, utilizando boottrap
 
 ## 🎯 Funcionalidades
-- [x] : Permite mudar os slides do carrosel, mudar cards, clicar em botões e acessar links. 
+- [x] : Permite mudar os slides do carrosel, acessar cards, clicar em botões e acessar links. 
 
 ## 💻 Tecnologias 
 - `HTML`
